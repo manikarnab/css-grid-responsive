@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-image: url(1.jpg);
+    color: white;
+    opacity: 0.70;
+    text-align: center;
+}
+.section1{
+    text-align: center;
+    font-size: 28px;
+    display: flex;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 231px 10px;
+}
+button{
+    font-size: 22px;
+    border-radius: 7px;
+    padding: 4px 17px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.section2{
+    background-color: rgb(173, 168, 168);
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+.sec2{
+    background-color: rgb(173, 168, 168);
+    display: flex;
+
+}
+.s1{
+    font-size: 18px;
+    margin: 30px;
+    padding: 4px 34px;
+}
+.section2 h2{
+    font-size: 41px;
+    padding: 35px;
+}
+.s2{
+    font-size: 18px;
+    margin: 35px;
+    padding: 5px 184px;
+}
+.section3{
+    display: flex;
+    background-color: #3a3936;
+    color: #2d2626;
+}
+.l1{
+    margin: 84px 75px;
+    padding: 25px;
+    background-color: white;
+
+}
+.l1-titile{
+    margin: 4px 72px;
+}
+.l1 img{
+    width: 300px;
+    height: 200px;
+}
+.l1 p{
+    margin: 11px 2px;
+}
+.l2{ 
+    margin: 84px 75px;
+    padding: 25px;
+    background-color: white;
+}
+.l2 img{
+    width: 300px;
+    height: 200px;
+    margin: 0px 10px;
+    
+    
+}
+.l2-title{
+    margin: 4px 72px;
+}
+.l2 p{
+    margin: 11px 2px;
+}
+.l3{
+    margin: 84px 75px;
+    padding: 25px;
+    background-color: white;
+}
+.l3 img{
+    width: 300px;
+    height: 200px;
+   
+}
+.l3-title{
+    margin: 4px 23px;
+}
+.l3 p{
+    margin: 11px 2px;
+}
+
+.section4{
+    background-color: #f4ebeb;
+    text-align: center;
+}
+.title-4{
+    font-size: 24px;
+    letter-spacing: 2px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+    background-position: center;
+    flex-direction: column;
+    padding: 100px 146px;
+}
+
+.section5{
+    display: flex;
+    color: white;
+}
+.a1{
+    background-color: #2424b0;
+    padding: 40px 48px;
+    font-size: 100%;
+}
+.a1 h2{
+    font-size: 208%;
+    margin: 41px 187px;
+}
+.a1 p{
+    font-size: 20px;
+}
+.a2{
+    background-color: #312e2e;
+    padding: 40px 48px;
+    font-size: 100%;
+}
+.a2 h2{
+    font-size: 208%;
+    margin: 41px 187px;
+}
+.a2 p{
+    font-size: 20px;
+}
+
+
+.section6{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.b1{
+    padding: 30px 224px;
+font-size: 17px;
+}
+.b2{
+    padding: 30px 270px;
+font-size: 22px;
+}
